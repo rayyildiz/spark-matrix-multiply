@@ -1,3 +1,8 @@
+.idea/
+projectFilesBackup/
+
+
+.DS_Store
 
 # Created by https://www.gitignore.io/api/emacs,jetbrains,scala,windows,sublimetext,linux
 
@@ -55,6 +60,8 @@ flycheck_*.el
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+*.iml
+
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
